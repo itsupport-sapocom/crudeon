@@ -110,7 +110,7 @@ function ContactUs() {
                   <div className='mb-4'>
                     <p className='text-white/60 pb-1 border-b border-b-white mb-2 max-w-[200px]'>Contact Us</p>
                     <p>9919636685</p>
-                    <p>contact@crudeonglobal.com</p>
+                    <p>connect@crudeonglobal.com</p>
                   </div>
                   <div className=' flex '>
                     <a href='https://www.instagram.com/' target='_blank' rel="noopener noreferrer" className='w-9 h-9 bg-secondary rounded-full p-2 mr-2 grid place-items-center hover:bg-primary' aria-label="instagram">
